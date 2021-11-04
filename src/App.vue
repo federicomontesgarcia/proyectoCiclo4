@@ -17,7 +17,7 @@ import AppFooter from './components/Footer';
 import AppNavigation from './components/Navigation';
 import AppHeader from "./components/Header";
 
-// import { mapState, mapMutations, mapActions } from 'vuex';
+//  import { mapState, mapMutations, mapActions } from 'vuex';
 
 export default {
   name: "App",
