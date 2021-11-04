@@ -2,7 +2,7 @@ import Vue from 'vue'
 import Router from 'vue-router'
 import Home from '../views/Home.vue'
 import Recomendation from '../views/Recomendation'
-import About from '../views/About'
+import About from '../views/About.jsx'
 import Sitio from '../views/Sitio'
 
 Vue.use(Router)

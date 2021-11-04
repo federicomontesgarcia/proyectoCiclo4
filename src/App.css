@@ -1,0 +1,16 @@
+/* About */
+.container-about {
+	justify-content: center;
+	margin-top: 100px;
+	width: 50%;
+	border: 1px solid red;
+	border-radius: 5%;
+	box-shadow: 0 0 20px darkgreen;
+	background: beige;
+}
+.titles{
+    color: blue;
+    font-family: cursive;
+    font-size: 20px;
+    padding-left: 10px;
+}
