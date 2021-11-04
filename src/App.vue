@@ -13,10 +13,11 @@
 
 <script>
 // import Client from './utils/Client'
-import Styles from './css/About.css';
+
 import AppFooter from './components/Footer';
 import AppNavigation from './components/Navigation';
 import AppHeader from "./components/Header";
+import Styles from "./App.css";
 
 // import { mapState, mapMutations, mapActions } from 'vuex';
 

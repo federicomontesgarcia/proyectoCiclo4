@@ -5,8 +5,6 @@
         <v-spacer></v-spacer>
         <v-btn class="white--text" text to="/" v-if="user">{{user.name}}</v-btn>
         <v-btn class="white--text" text to="/" v-else>Login</v-btn>
-        <v-btn class="white--text" text to="/recomendation">Recomendaciones</v-btn>
-        <v-btn class="white--text" text to="/about">Sobre nosotros</v-btn>
         <v-btn class="white--text" text to="/about" >¿Quienes somos?</v-btn>
         <v-btn class="white--text" text to="/recomendation">Lugares recomendados</v-btn>
         <v-btn class="white--text" text to="/contact" >Contacto</v-btn>

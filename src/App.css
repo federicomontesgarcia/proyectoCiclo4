@@ -1,6 +1,6 @@
 /* About */
 .container-about {
-	justify-content: center;
+	margin-left: 25%;
 	margin-top: 100px;
 	width: 50%;
 	border: 1px solid red;
@@ -8,9 +8,24 @@
 	box-shadow: 0 0 20px darkgreen;
 	background: beige;
 }
-.titles{
+.card-about{
+    padding: 12px;
+    border-bottom: 1px dotted black;
+}
+
+.card-about-last{
+    border-bottom: none;
+}
+.subtitles-about{
     color: blue;
     font-family: cursive;
     font-size: 20px;
-    padding-left: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+.parrafos-about{
+    margin-left: 2%;
+    margin-right: 2%;
+    text-align: center;
 }
