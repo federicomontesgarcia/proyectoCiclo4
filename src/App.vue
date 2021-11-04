@@ -34,7 +34,7 @@ export default {
       this.$store.commit('setUser', JSON.parse(localStorage.getItem('user')));
     }
   },
-  // methods: {
+  //  methods: {
   //   ...mapMutations([
   //      "increment"
   //   ]),
